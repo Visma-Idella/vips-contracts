@@ -1,6 +1,5 @@
 # vips-contracts
 Visma Idella BV public resources, OpenAPI and other SCHEMA specifications
-# VIPS Contracts
 
 👤 [Visma Idella][info@visma-idella.nl]
 
